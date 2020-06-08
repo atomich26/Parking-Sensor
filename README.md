@@ -68,7 +68,7 @@
          ciao a tutti
           ciao a tutti
            ciao a tutti
-           [## Paragrafo ##](#paragrafo) 
+           ## Paragrafo ## <a name="paragrafo"></a> 
  ciao a tutti
  ciao a tutti
   ciao a tutti ciao a tutti
